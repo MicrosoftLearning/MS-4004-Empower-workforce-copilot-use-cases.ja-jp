@@ -8,7 +8,6 @@ Copilot for Microsoft 365 の一般的な機能の 1 つは、同じ機能を実
 
 あなたは、Copilot in Loop、Microsoft Copilot (Bing チャット)、Copilot in Word にそれぞれ 15 個の質問のセットを作成させることから開始します。
 
-> [!TIP]
-> いずれかの Copilot が各質問に付け足しの余分なコメントを生成した場合は、応答を質問のみに留めるように指示します。
+> **ヒント:** いずれかの Copilot が各質問に付け足しの余分なコメントを生成した場合は、応答を質問のみに留めるように指示します。
 
 その後、各 Copilot ツールによって生成された 15 個の質問をコピーして 1 つの Word ドキュメントに貼り付け、合計 45 個の質問のプールが手に入ります。 次に、そのドキュメントから、Copilot in Word にそれら 45 個の質問を比較してプールから上位 15 個を選択させます。 Copilot が推奨する質問ごとに、その質問のソースが Copilot in Word、Copilot in Loop、Microsoft Copilot (Bing) のいずれであるかを Copilot に特定させます。 次に、15 個の質問の最終リストの内、Copilot in Loop、Microsoft Copilot (Bing)、Copilot in Word によって生成された質問の総数を表示するように Copilot in Word に指示します。
