@@ -19,7 +19,7 @@
 
 メールはフォーマルでプロフェッショナルなトーンにし、役職、勤務開始日、給与、給付を含める必要があります (ダウンロードする必要があるファイルに記載されています)。 メールには、経歴調査や必要となるその他の雇用前審査が問題なく完了することがオファーの条件であることも記載する必要があります。 メールでのオファー レターであるため、候補者が署名して返送するためのオファー レターの添付コピーも含める必要があります。
 
-1.  次のリンクを選択して [Graphic Design Institute - Employee benefits](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Employee%20benefits.docx) ドキュメントをダウンロードします。
+1.  次のリンクを選択して [Graphic Design Institute - Employee benefits](https://go.microsoft.com/fwlink/?linkid=2268825) ドキュメントをダウンロードします。
 2.  ダウンロードが完了したら、ファイルを OneDrive アカウントに移動し、ファイルを開いてから閉じて、最近使用した (MRU) ファイルの一覧に表示されるようにします。
 3.  Microsoft Edge ブラウザーで Microsoft 365 タブを開いている場合は、ここでそれを選択します。それ以外の場合は、新しいタブを開き、次の URL を入力します: **https://www.office.com**
 4.  **Microsoft 365** で **Outlook** を開きます。

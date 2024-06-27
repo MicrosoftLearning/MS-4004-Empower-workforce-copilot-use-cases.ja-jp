@@ -22,9 +22,9 @@ Copilot in Word を使用して、ミスティック スパイス プレミア�
 
 Copilot in Word を使用してこの市場分析レポートを作成するには、次の手順を実行します。
 
-1.  [ミスティック スパイス プレミアム チャイ ティーの製品説明](https://edxinteractivepage.blob.core.windows.net/ms-4004/Mystic%20Spice%20Premium%20Chai%20Tea%20product%20description.docx)のコピーをダウンロードするには、次のリンクを選択します。
-2.  [2023 年 Contoso チャイ ティー市場傾向](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Chai%20Tea%20market%20trends%202023.docx)のコピーをダウンロードするには、次のリンクを選択します。
-3.  [ラテン アメリカでのチャイ ティー販売促進計画](https://edxinteractivepage.blob.core.windows.net/ms-4004/Promotion%20Plan%20for%20Chai%20Tea%20in%20Latin%20America.docx)のコピーをダウンロードするには、次のリンクを選択します。
+1.  [ミスティック スパイス プレミアム チャイ ティーの製品説明](https://go.microsoft.com/fwlink/?linkid=2268929)のコピーをダウンロードするには、次のリンクを選択します。
+2.  [2023 年 Contoso チャイ ティー市場傾向](https://go.microsoft.com/fwlink/?linkid=2269122)のコピーをダウンロードするには、次のリンクを選択します。
+3.  [ラテン アメリカでのチャイ ティー販売促進計画](https://go.microsoft.com/fwlink/?linkid=2269126)のコピーをダウンロードするには、次のリンクを選択します。
 4.  ダウンロードが完了したら、**エクスプローラー**を開き、**ダウンロード** フォルダーから OneDrive アカウント内のフォルダーにファイルを移動します。
 5.  この演習では、最近使用した (MRU) ファイル リストからドキュメントにアクセスします。 MRU リストにファイルを表示するには、お使いの OneDrive アカウントで 3 つのファイルをそれぞれ開いてから閉じます。
 6.  **Microsoft 365** で **Microsoft Word** を開き、新しい白紙の文書を開きます。

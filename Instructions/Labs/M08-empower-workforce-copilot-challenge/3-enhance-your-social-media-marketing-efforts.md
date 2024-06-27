@@ -5,4 +5,4 @@
  -  あなたは、Word の Copilot を使用して、ブログやソーシャル メディア向けの魅力的なコンテンツを作成したいと考えています。
  -  あなたは、Excel の Copilot を使用して、顧客からのフィードバックとエンゲージメント データを分析し、傾向と知見を明らかにしたいと考えています。
 
-あなたは、顧客からのフィードバックとエンゲージメント データを収集するために、地域のマーケティング会社と契約し、これらは Excel スプレッドシートに保存されました。 次のリンクを選択して、このデータを含む Excel ファイルをダウンロードしてください。[Liberty's Delightful Sinful Bakery & Cafe - 顧客からのフィードバック](https://edxinteractivepage.blob.core.windows.net/ms-4004/Liberty%27s%20Delightful%20Sinful%20Bakery%20&%20Cafe%20-%20Customer%20feedback.xlsx)。 このスプレッドシートを使用して、傾向と知見を明らかにします。
+あなたは、顧客からのフィードバックとエンゲージメント データを収集するために、地域のマーケティング会社と契約し、これらは Excel スプレッドシートに保存されました。 次のリンクを選択して、このデータを含む Excel ファイルをダウンロードしてください。[Liberty's Delightful Sinful Bakery & Cafe - 顧客からのフィードバック](https://go.microsoft.com/fwlink/?linkid=2269125)。 このスプレッドシートを使用して、傾向と知見を明らかにします。

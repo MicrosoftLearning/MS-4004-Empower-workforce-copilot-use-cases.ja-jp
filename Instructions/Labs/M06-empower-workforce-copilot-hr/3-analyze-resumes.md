@@ -13,10 +13,10 @@ Copilot にドキュメントの生成や何らかの変更の適用を依頼す
 前の演習の最後に、作成した職務明細書ファイルを保存しました。 ファイルを **Graphic Design Institute - Job descriptions.docx** として保存するように指示されました。 別のファイル名で保存した場合は、この演習でファイルを見つけられるように、使用した名前を覚えておいてください。 この演習では、次の手順を実行して、Word の Copilot に受け取った 4 つの履歴書をこの職務明細書ファイルと比較させ、どの候補者が最も適任であるかを判断するのに役立てます。
 
 1.  次のリンクを選び、これまでに受け取った履歴書をダウンロードします。
-     -  [履歴書 - Patti Fernandez](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Patti%20Fernandez.docx)
-     -  [履歴書 - Nestor Wilke](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Nestor%20Wilke.docx)
-     -  [履歴書 - Holly Dickson](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Holly%20Dickson.docx)
-     -  [履歴書 - Alex Wilber](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Alex%20Wilber.docx)
+     -  [履歴書 - Patti Fernandez](https://go.microsoft.com/fwlink/?linkid=2268829)
+     -  [履歴書 - Nestor Wilke](https://go.microsoft.com/fwlink/?linkid=2268930)
+     -  [履歴書 - Holly Dickson](https://go.microsoft.com/fwlink/?linkid=2268828)
+     -  [履歴書 - Alex Wilber](https://go.microsoft.com/fwlink/?linkid=2269127)
 2.  ダウンロードが完了したら、**[エクスプローラー]** を開き、**ダウンロード** フォルダーから OneDrive アカウント内のフォルダーにファイルをコピーします。
 3.  この演習では、最近使用した (MRU) ファイル リストからドキュメントにアクセスします。 MRU リストに表示されるファイルを取得するには、各ドキュメントを開いて閉じます。 OneDrive アカウントの 4 つの履歴書ファイルをそれぞれ開いて閉じます。
 4.  **Microsoft 365** で **Microsoft Word** を開き、新しい白紙の文書を開きます。

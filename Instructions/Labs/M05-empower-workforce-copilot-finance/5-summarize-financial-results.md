@@ -14,7 +14,7 @@
 
 このタスクを完了するには、過去 5 年間の会社の年間業績の財務概要を示す、会計チームが作成した Word 文書を開きます。 その後、Copilot in Word を使用して、その期間中の会社の業績を要約します。
 
-1.  次のリンクを選択して、[Adatum 5 Year Financial Results](https://edxinteractivepage.blob.core.windows.net/ms-4004/Adatum%205%20Year%20Financial%20Results.docx) をダウンロードします。
+1.  次のリンクを選択して、[Adatum 5 Year Financial Results](https://go.microsoft.com/fwlink/?linkid=2268923) をダウンロードします。
 2.  ダウンロードが完了したら、**エクスプローラー**を開き、**ダウンロード** フォルダーから OneDrive アカウント内のフォルダーにファイルを移動します。
 3.  **Microsoft Word** で、ダウンロードして OneDrive アカウントに移動した **Adatum 5 Year Financial Results.docx** ファイルを開きます。
 4.  **Microsoft Word** リボンで、**[Copilot]** を選択します。

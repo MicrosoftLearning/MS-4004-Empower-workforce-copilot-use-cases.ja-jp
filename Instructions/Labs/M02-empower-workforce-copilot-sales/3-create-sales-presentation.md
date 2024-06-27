@@ -11,7 +11,7 @@ PowerPoint の Copilot は、営業担当者がプレゼンテーションを作
 
 Contoso, Ltd. の営業およびマーケティング ディレクターとして、自社の最もホットな販売製品である Contoso Protein Plus シェイクに関するプレゼンテーションを営業チームに提供する必要があります。 プレゼンテーションでは、マーケティング チームが製品用に作成した市場傾向レポートを分析する必要があります。 以下の手順に従って、この演習の開始時にダウンロードした **Market Trend Report - Protein Shake.docx** ファイルの情報に基づいて、PowerPoint の Copilot でスライド プレゼンテーションを作成します。
 
-1.  [Market Trend Report - Protein Shake](https://edxinteractivepage.blob.core.windows.net/ms-4004/Market%20Trend%20Report-%20Protein%20shake.docx) のコピーをダウンロードするには、次のリンクを選択します。
+1.  [Market Trend Report - Protein Shake](https://go.microsoft.com/fwlink/?linkid=2268827) のコピーをダウンロードするには、次のリンクを選択します。
 2.  ダウンロードが完了したら、**エクスプローラー**を開き、**ダウンロード** フォルダーから OneDrive アカウント内のフォルダーにファイルを移動します。
 3.  この演習では、最近使用したファイルの一覧からドキュメントにアクセスします。 ファイルが [最近使用した項目] に表示されるようにするには、ドキュメントを開いて閉じます。
 4.  **Microsoft Edge** ブラウザーで **[Microsoft 365]** タブを開いている場合は、ここでそれを選択します。それ以外の場合は、新しいタブを開き、次の URL を入力します: **https://www.office.com**

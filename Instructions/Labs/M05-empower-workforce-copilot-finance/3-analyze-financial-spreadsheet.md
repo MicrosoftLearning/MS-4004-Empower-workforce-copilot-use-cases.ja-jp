@@ -19,7 +19,7 @@ Copilot in Excel を使用する場合は、ワークシート内にデータを
 
 Copilot in Excel を使用して、Q1 マーケティング キャンペーン スプレッドシートに表示されるデータを分析するには、次の手順を実行します。
 
-1.  次のリンクを選択して、[Fabrikam Q1 マーケティング キャンペーン](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaigns.xlsx) スプレッドシートをダウンロードします。
+1.  次のリンクを選択して、[Fabrikam Q1 マーケティング キャンペーン](https://go.microsoft.com/fwlink/?linkid=2269124) スプレッドシートをダウンロードします。
 2.  ダウンロードが完了したら、ファイルを OneDrive アカウントに移動し、ファイルを開いてから閉じて、最近使用した (MRU) ファイルの一覧に表示されるようにします。
 3.  Microsoft Edge ブラウザーで Microsoft 365 タブを開いている場合は、ここでそれを選択します。それ以外の場合は、新しいタブを開き、次の URL を入力します: **https://www.office.com**
 4.  **[Microsoft 365]** ホーム ページの左側のナビゲーション ウィンドウで **[Excel]** アイコンを選択します。

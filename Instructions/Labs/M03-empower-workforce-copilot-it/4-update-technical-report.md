@@ -16,7 +16,7 @@ Fabrikam は、企業ネットワークに仮想プライベート ネットワ�
 
 あなたは Trey Research のコンサルタントのリーダーとして、Fabrikam プロジェクトの管理を担当しています。 このドキュメントを Fabrikam に提示し、VPN の実装の詳細を迅速に理解してもらうのがあなたの仕事です。 ただし、レポートを確認した後、さらに変更を加えることにしました。 チームの暫定版に問題はありませんでしたが、あなたは、いくつかの重要な情報が欠けていると感じたため、Fabrikam が理解しやすいようにその一部を再フォーマットしたいと考えています。 この作業を支援するために、Word で Copilot を使用する予定です。 これを行うには、次の手順を実行します:
 
-1.  次のリンクを選択して、[Trey Research - VPN Technical Overview](https://edxinteractivepage.blob.core.windows.net/ms-4004/Trey%20Research%20-%20VPN%20Technical%20Overview.docx) レポートをダウンロードします。
+1.  次のリンクを選択して、[Trey Research - VPN Technical Overview](https://go.microsoft.com/fwlink/?linkid=2269129) レポートをダウンロードします。
 2.  ダウンロードが完了したら、**ダウンロード** フォルダーから OneDrive アカウント内のフォルダーにファイルを移動します。
 3.  **Microsoft 365** で、**Microsoft Word** を開きます。
 4.  **Trey Research - VPN Technical Overview.docx** ファイルを開きます。
