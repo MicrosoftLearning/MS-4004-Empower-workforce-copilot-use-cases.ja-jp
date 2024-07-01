@@ -18,9 +18,9 @@ Copilot in Word を使うと、営業担当者は顧客との強力なリレー�
 Copilot in Word を使用して音声を生成するには、次の手順を実行します。
 
 1.  次のリンクを選択して、3 つの供給者合意をダウンロードします。
-     -  [Contoso 供給者合意](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Supplier%20Agreement.docx)
-     -  [Tailwind Traders 供給者合意](https://edxinteractivepage.blob.core.windows.net/ms-4004/Tailwind%20Traders%20Supplier%20Agreement.docx)
-     -  [Wide World Importers 供給者合意](https://edxinteractivepage.blob.core.windows.net/ms-4004/Wide%20World%20Importers%20Supplier%20Agreement.docx)
+     -  [Contoso 供給者合意](https://go.microsoft.com/fwlink/?linkid=2268925)
+     -  [Tailwind Traders 供給者合意](https://go.microsoft.com/fwlink/?linkid=2269128)
+     -  [Wide World Importers 供給者合意](https://go.microsoft.com/fwlink/?linkid=2269129)
 2.  ダウンロードが完了したら、**[エクスプローラー]** を開き、**ダウンロード** フォルダーから OneDrive アカウント内のフォルダーにファイルをコピーします。
 3.  この演習では、最近使用したファイルの一覧からドキュメントにアクセスします。 MRU リストに表示されるファイルを取得するには、各ドキュメントを開いて閉じます。 OneDrive アカウントの 3 つのファイルをそれぞれ開いて閉じます。
 4.  **Microsoft 365** で **Microsoft Word** を開き、新しい空白の文書を開きます。

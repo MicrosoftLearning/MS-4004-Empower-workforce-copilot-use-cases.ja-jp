@@ -27,7 +27,7 @@ Copilot for Word を巧みに使用する経営幹部は、競争上の優位性
 
 Copilot in Word を使用してスピーチを生成するには、次の手順を実行します。
 
-1.  次のリンクを選択して、[Fabrikam の 2023 年損益計算書](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%202023%20Income%20Statement.docx)のコピーをダウンロードします。
+1.  次のリンクを選択して、[Fabrikam の 2023 年損益計算書](https://go.microsoft.com/fwlink/?linkid=2268823)のコピーをダウンロードします。
 2.  ダウンロードが完了したら、**エクスプローラー**を開き、**ダウンロード** フォルダーから OneDrive アカウント内のフォルダーにファイルを移動します。
 3.  この演習では、MRU ファイルの一覧から文書にアクセスします。 ファイルが一覧に表示されるようにするには、文書を開いて閉じます。
 4.  **Microsoft 365** で、次の URL を入力して、新しい白紙の **Microsoft Word** 文書を開きます: **Word.new** 

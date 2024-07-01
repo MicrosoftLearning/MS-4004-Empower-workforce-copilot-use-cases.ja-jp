@@ -17,7 +17,7 @@ Microsoft Copilot は、リアルタイム コラボレーションの中心的�
 
 Microsoft Copilot in Bing を使用してプロジェクト計画を作成するには、次の手順を実行します。
 
-1.  次のリンクを選択して [Contoso CipherGuard Product Specification レポート](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20Product%20Specification.docx)のコピーをダウンロードします。
+1.  次のリンクを選択して [Contoso CipherGuard Product Specification レポート](https://go.microsoft.com/fwlink/?linkid=2269123)のコピーをダウンロードします。
 2.  ダウンロードが完了したら、**エクスプローラー**を開き、**ダウンロード** フォルダーから OneDrive アカウント内のフォルダーにファイルを移動します。
 3.  この演習では、MRU ファイルの一覧からドキュメントにアクセスします。 ファイルが MRU 一覧に表示されるようにするには、ドキュメントを開いて閉じます。
 4.  **Microsoft Edge** で、次の URL を入力して Microsoft Bing に移動します: **https://bing.com**

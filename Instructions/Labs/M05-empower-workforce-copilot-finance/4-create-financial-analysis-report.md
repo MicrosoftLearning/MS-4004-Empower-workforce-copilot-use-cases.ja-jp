@@ -14,7 +14,7 @@ Word の Copilot は、財務担当者がドキュメントをより効率的に
 
 Fabrikam の財務部長であるあなたは、前の演習で Excel の Copilot を使用して、会社の Q1 マーケティング キャンペーンの効果を分析しました。 この演習では、Word の Copilot を使用して、そのデータの分析を要約したレポートを生成する予定です。 スプレッドシートはコピーされて Word 文書に貼り付けられています。これを最初の手順でダウンロードします。
 
-1.  次のリンクを選択して、[Fabrikam Q1 マーケティング キャンペーンのデータ](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaign%20data.docx)をダウンロードします。
+1.  次のリンクを選択して、[Fabrikam Q1 マーケティング キャンペーンのデータ](https://go.microsoft.com/fwlink/?linkid=2268926)をダウンロードします。
 2.  ダウンロードが完了したら、ファイルを OneDrive アカウントに移動し、ファイルを開いてから閉じて、最近使用した (MRU) ファイルの一覧に表示されるようにします。
 3.  Microsoft Edge ブラウザーで **[Microsoft 365]** タブを開いている場合は、ここでそれを選択します。それ以外の場合は、新しいタブを開き、次の URL を入力します: **https://www.office.com**
 4.  **Microsoft 365** で **Microsoft Word** を開き、白紙の文書を開きます。

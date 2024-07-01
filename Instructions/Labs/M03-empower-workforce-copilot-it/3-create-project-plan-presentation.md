@@ -20,7 +20,7 @@ PowerPoint で Copilot を使用すると、既存の Word ドキュメントか
 
 Adatum Corporation の IT ディレクターであるあなたは、Adatum の企業ネットワークに Contoso CipherGuard Sentinel X7 ネットワーク セキュリティ製品をインストールすることを計画しています。 前の演習では、Microsoft Copilot を使用してインストール プロジェクト計画を作成しました。 今度は、PowerPoint で Copilot を使用し、その計画に基づいてスライド プレゼンテーションを作成します。 IT スタッフと、最終的には会社の経営陣にプロジェクト計画のプレゼンテーションを行う必要があります。 プレゼンテーションで使用する予定のスライド デッキを作成するには、次の手順を実行します。
 
-1.  前の演習を完了し、**Contoso CipherGuard project plan.docx** ファイルを作成した場合は、それを OneDrive アカウントにコピーしたことを確認し、次の手順に進みます。 ただし、前の演習でこのプロジェクト計画を作成できなかった場合は、次のリンクを選択して、作成された [Contoso CipherGuard プロジェクト計画](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20project%20plan.docx)をダウンロードします。 ファイルのダウンロードが完了したら、それを OneDrive アカウントにコピーします。
+1.  前の演習を完了し、**Contoso CipherGuard project plan.docx** ファイルを作成した場合は、それを OneDrive アカウントにコピーしたことを確認し、次の手順に進みます。 ただし、前の演習でこのプロジェクト計画を作成できなかった場合は、次のリンクを選択して、作成された [Contoso CipherGuard プロジェクト計画](https://go.microsoft.com/fwlink/?linkid=2268924)をダウンロードします。 ファイルのダウンロードが完了したら、それを OneDrive アカウントにコピーします。
 2.  この時点で、**Contoso CipherGuard project plan.docx** ファイルが OneDrive アカウントに保存されているはずです。 ファイルを開いて、すべて問題ないことを確認して、ファイルを閉じます。 こうすることにより、最近使用した (MRU) ファイルの一覧にこのファイルが確実に表示されます。
 3.  Microsoft Edge ブラウザーで Microsoft 365 タブを開いている場合は、ここでそれを選択します。それ以外の場合は、新しいタブを開き、次の URL を入力します: **https://www.office.com**
 4.  **Microsoft 365** ホーム ページで、左側のナビゲーション ウィンドウにある **[PowerPoint]** アイコンを選択します。

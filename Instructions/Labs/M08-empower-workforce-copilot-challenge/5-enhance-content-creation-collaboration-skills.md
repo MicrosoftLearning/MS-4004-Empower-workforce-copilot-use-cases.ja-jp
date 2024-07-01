@@ -8,7 +8,7 @@
 
 Relecloud の若手社員の 1 人から、Munson's Pickles and Preserves Farm に関わる新しいプロジェクトの概略を作成したという連絡がありました。 Munson's は、ワシントン州東部で缶詰のピクルスや保存食を販売する家族経営のビジネスとしてスタートしました。 5 年間で、Munson's はカナダ西部と米国太平洋岸全域で製品を販売する数百万ドル規模のビジネスに成長しました。同社は、カナダ中部の州と北中西部 (米国) から始めて、事業を拡大する準備ができています。
 
-次のリンクを選択して、マーケティング レポートをダウンロードする必要があります。[Munson's Pickles and Preserves Farm - Marketing report](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Report%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx)。
+次のリンクを選択して、マーケティング レポートをダウンロードする必要があります。[Munson's Pickles and Preserves Farm - Marketing report](https://go.microsoft.com/fwlink/?linkid=2268063)。
 
 このレポートには、エグゼクティブ サマリと概要が含まれています。 ただし、レポートを確認すると、それを実行可能なマーケティング計画にまとめるためにやるべきことが数多くあることがわかります。 エグゼクティブ サマリには、サポート ドキュメントで実証されていない詳細が含まれています。 また、概要が通常の "概要"とは程遠いものであることもわかりました。 これには、概要から分離する必要があるさまざまなアイデアや背景データが含まれています。
 
@@ -32,7 +32,7 @@ Copilot を使用する場合、キーワードの最適化に重点を置く必
 
 Relecloud のマーケティング チームは先週ミーティングを開き、キャンペーンのアイデア、ブレーンストーミング セッション、Munson's Pickles and Preserves Farm プロジェクトに関連するプロジェクトの計画で共同作業を行いました。 彼らは、すべての調査結果を、マーケティング キャンペーンのアイデアを集めた 1 つの大規模なコレクションに統合しました。
 
-次のリンクを選択して、このレポートをダウンロードする必要があります。[Marketing campaign ideas for Munson's Pickles and Preserves Farm](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Campaign%20Ideas%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx)。
+次のリンクを選択して、このレポートをダウンロードする必要があります。[Marketing campaign ideas for Munson's Pickles and Preserves Farm](https://go.microsoft.com/fwlink/?linkid=2268691)。
 
 次に、あなたは、経営陣と Munson's の代表者との間のコミュニケーションとアイデア共有を効率化したいと考えています。 これを行うには、Word の Copilot を使用して、このキャンペーン アイデア レポートを分析し、そこから "Munson のカナダと米国への拡大をサポートするためのマーケティング キャンペーンの上位 5 つのアイデア" というタイトルの新しいレポートを作成します。 この新しいレポートは、マーケティング キャンペーン アイデア レポートの調査結果を要約し、主要なアイデアと考えられる実施項目を強調する必要があります。 新しいレポートには、次のものが含まれている必要があります。
 

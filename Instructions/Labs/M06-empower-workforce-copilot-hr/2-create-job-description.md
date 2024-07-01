@@ -10,7 +10,7 @@ Copilot in Word は、従業員のフィードバックやアンケートを分�
 
 あなたは Graphic Design Institute の人事マネージャーとして、新しいシニア アニメーション デザイナーの採用プロセスを開始しました。 あなたのスタッフは、この役割のすべての職務責任の概要を記載したドキュメントを作成しました。 次に、Copilot in Word を使用して、このドキュメント内の役割の責任に基づいた職務説明を作成する必要があります。
 
-1.  次のリンクを選択して [Graphic Design Institute - Design Team Responsibilities](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Design%20Team%20Responsibilities.docx) ドキュメントをダウンロードします。
+1.  次のリンクを選択して [Graphic Design Institute - Design Team Responsibilities](https://go.microsoft.com/fwlink/?linkid=2268824) ドキュメントをダウンロードします。
 2.  ダウンロードが完了したら、ファイルを OneDrive アカウントに移動し、ファイルを開いてから閉じて、最近使用した (MRU) ファイルの一覧に表示されるようにします。
 3.  Microsoft Edge ブラウザーで Microsoft 365 タブを開いている場合は、ここでそれを選択します。それ以外の場合は、新しいタブを開き、次の URL を入力します: **https://www.office.com**
 4.  **Microsoft 365** で **Microsoft Word** を開き、白紙の文書を開きます。
