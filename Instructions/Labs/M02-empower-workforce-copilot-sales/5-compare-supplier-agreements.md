@@ -20,7 +20,7 @@ Copilot in Word を使用して音声を生成するには、次の手順を実�
 1.  次のリンクを選択して、3 つの供給者合意をダウンロードします。
      -  [Contoso 供給者合意](https://go.microsoft.com/fwlink/?linkid=2268925)
      -  [Tailwind Traders 供給者合意](https://go.microsoft.com/fwlink/?linkid=2269128)
-     -  [Wide World Importers 供給者合意](https://go.microsoft.com/fwlink/?linkid=2269129)
+     -  [Wide World Importers 供給者合意](https://go.microsoft.com/fwlink/?linkid=2268931)
 2.  ダウンロードが完了したら、**[エクスプローラー]** を開き、**ダウンロード** フォルダーから OneDrive アカウント内のフォルダーにファイルをコピーします。
 3.  この演習では、最近使用したファイルの一覧からドキュメントにアクセスします。 MRU リストに表示されるファイルを取得するには、各ドキュメントを開いて閉じます。 OneDrive アカウントの 3 つのファイルをそれぞれ開いて閉じます。
 4.  **Microsoft 365** で **Microsoft Word** を開き、新しい空白の文書を開きます。
