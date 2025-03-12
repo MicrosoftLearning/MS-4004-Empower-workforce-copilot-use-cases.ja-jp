@@ -1,1 +1,1 @@
-プレースホルダー フォルダー
+Placeholder folder
